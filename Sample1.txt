@@ -2,3 +2,4 @@
 #
 # Memo
 #
+imprt sys as s
